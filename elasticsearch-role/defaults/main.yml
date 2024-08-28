@@ -1,0 +1,8 @@
+elasticsearch_version: "8.x"
+elasticsearch_repo_url: "https://artifacts.elastic.co/packages/{{ elasticsearch_version }}/apt"
+elasticsearch_yml_config:
+  xpack.security.enabled: false
+  xpack.security.enrollment.enabled: false
+xpack_security_enabled: false
+xpack_security_enrollment_enabled: false
+
