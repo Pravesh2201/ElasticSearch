@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   role_name: my_elasticsearch_role
-  author: your_name
+  author: Pravesh
   description: "Ansible role to install and configure Elasticsearch on Ubuntu and CentOS/RHEL"
   license: MIT
   min_ansible_version: 2.9
